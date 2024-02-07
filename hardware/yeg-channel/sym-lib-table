@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_WCH")(type "KiCad")(uri "${KIPRJMOD}/../library/symbols/MCU_WCH.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_SwitchedCapacitor_Project")(type "KiCad")(uri "C:/workspace/yeg-new/hardware/library/symbols/Regulator_SwitchedCapacitor_Project.kicad_sym")(options "")(descr ""))
+  (lib (name "Analog_ADC_AVIA")(type "KiCad")(uri "C:/workspace/yeg-new/hardware/library/symbols/Analog_ADC_AVIA.kicad_sym")(options "")(descr ""))
+)
