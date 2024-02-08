@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Yet Another EXG Channel Board")
+    (title "YEG Channel Board")
     (date "2024-02-07")
     (rev "1")
     (company "Yet Another AI Ltd.")
