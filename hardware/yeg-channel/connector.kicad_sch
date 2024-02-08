@@ -1487,7 +1487,7 @@
     (property "Datasheet" "~" (at 22.86 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC ID" "C37208" (at 22.86 78.74 0)
+    (property "LCSC ID" "C492414" (at 22.86 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "6" (uuid 2befd377-d38a-4924-9d31-1fd4ffe8f1d2))
